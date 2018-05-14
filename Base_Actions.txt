@@ -1,4 +1,7 @@
 1. Clone remote repository using SSH keys;
 2. Create not less than 3 commits in “master” branch;
 3. Create new “develop” branch and push 2 commits to it;
-4. Merge “develop” branch to “master” branch.
+4. Merge “develop” branch to “master” branch;
+--------
+This comment is created tp invoke merge conflict.
+Conflict wanted.
