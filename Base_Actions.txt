@@ -5,3 +5,4 @@ Merge “develop” branch to “master” branch;
 --------
 This comment is created tp invoke merge conflict.
 Conflict wanted.
+Invoking in progress...
